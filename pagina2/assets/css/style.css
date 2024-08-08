@@ -1,0 +1,24 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+
+div{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 150px);
+
+   
+}
+
+
+
+select{
+    margin: 0;
+    padding: 0;
+
+
+   
+}
+
